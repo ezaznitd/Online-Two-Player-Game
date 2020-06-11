@@ -1,18 +1,4 @@
-/*
-	Name: Ezaz Hossain Sardar
-	Roll: 17CS8022
-	
-	***How to run***
-		==>g++ TCP_Server.c
-	It won't work for 
-		==>gcc TCP_Server.c
-		
-		As this code is using some Inline function and Lambda expression.
-
-	Assignment 3: Build a online Two player game using TCP/IP in C.
-*/
-
-//Online Two player Tic Tac Toe game in C
+//Online Two player Tic Tac Toe game in C++
 
 // Server Program:
 
