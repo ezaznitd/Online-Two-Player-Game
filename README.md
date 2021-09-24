@@ -1,6 +1,10 @@
-# @Author Ezaz Hossain
+<h1 align="center">Online two player Tic-Tac-Toe game</h1>
 
-##  It is an online two player Tic-Tac-Toe game completely built in C++.
+<div align="center">
+  
+[![C++ Badge](https://img.shields.io/badge/-C++-blue?style=for-the-badge&labelColor=blue&logo=c&logoColor=purple)](#)
+
+</div>
 
 ## How to run:
 To start the game one has to run server program first followed by client program.
